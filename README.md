@@ -19,4 +19,4 @@ Advanced AI, Computer Vision, MLOps, DSA
 
 ## Contact
 Email: bhatianitin49@gmail.com
-GitHub:- https://github.com/Nitin59295
+GitHub: github.com/Nitin59295
