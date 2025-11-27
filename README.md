@@ -1,11 +1,26 @@
-- Hi, I’m @Nitin59295
-- I’m interested in coding
-- I’m currently learning python
-- I’m looking to collaborate on projects from which i can learn
+Hi, I’m Nitin Bhatia
 
--
+Python Developer and AI/ML enthusiast with experience in backend development and computer vision.
 
-<!---
-Nitin59295/Nitin59295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+
+Python, C++, Java
+FastAPI, Flask
+TensorFlow, PyTorch, OpenCV
+MySQL, MongoDB
+Git, Docker
+
+Projects
+	•	Diet Giene – Nutrition and calorie tracking system
+	•	Expense Management System – Expense tracking and reporting
+	•	Object Detection (OpenCV) – Real-time object detection
+	•	AI Chatbot – NLP-based chatbot for automated responses
+
+Learning
+
+Advanced AI, Computer Vision, MLOps, and DSA
+
+Contact
+
+Email: your_email@example.com
+GitHub: github.com/YOUR_USERNAME
