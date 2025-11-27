@@ -18,5 +18,4 @@ Python Developer and AI/ML enthusiast focused on backend systems and computer vi
 Advanced AI, Computer Vision, MLOps, DSA
 
 ## Contact
-Email: your_email@example.com
-GitHub: github.com/YOUR_USERNAME
+Email: bhatianitin49@gmail.com
