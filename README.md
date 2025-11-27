@@ -22,5 +22,4 @@ Advanced AI, Computer Vision, MLOps, and DSA
 
 Contact
 
-Email: your_email@example.com
-GitHub: github.com/YOUR_USERNAME
+Email: bhatianitin49@gmail.com
