@@ -2,8 +2,8 @@
 Python Developer and AI/ML enthusiast focused on backend systems and computer vision.
 
 ## Skills
-- Python | C++ | Java
-- FastAPI | Flask
+- Python | C++ 
+- RestApi | Flask | Django
 - TensorFlow | PyTorch | OpenCV
 - MySQL | MongoDB
 - Git | Docker
@@ -15,7 +15,7 @@ Python Developer and AI/ML enthusiast focused on backend systems and computer vi
 - AI Chatbot: NLP-based conversational bot
 
 ## Learning
-Advanced AI, Computer Vision, MLOps, DSA
+Advanced AI, Computer Vision, MLOps, DSA, AWS
 
 ## Contact
 Email: bhatianitin49@gmail.com
