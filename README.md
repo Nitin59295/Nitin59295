@@ -9,7 +9,7 @@ I build scalable backend systems, AI-powered applications, and practical Python 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,django,flask,fastapi,tensorflow,pytorch,opencv,mysql,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,mysql,mongodb,docker,git,linux" />
 </p>
 
 ### Backend
