@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/Nitin59295/Nitin59295/main/github-header-banner%20(3).png" width="100%" />
+
+
 # Hi, I'm Nitin Bhatia
 
 ### Python Backend Developer | AI/ML Enthusiast | Computer Vision
