@@ -1,28 +1,32 @@
 # Hi, I'm Nitin Bhatia
 
-### Python Backend Developer | AI/ML Enthusiast | Computer Vision Learner
+### Python Backend Developer | AI/ML Enthusiast | Computer Vision
 
 I build scalable backend systems, AI-powered applications, and practical Python solutions focused on real-world impact.
 
 ---
 
-## Current Focus
-
-* Learning Advanced AI, Computer Vision, MLOps, AWS
-* Building backend systems using Flask, Django, REST APIs
-* Improving DSA and system design
-
----
-
 ## Tech Stack
 
-* **Languages:** Python, C++
-* **Backend:** REST API, Flask, Django
-* **AI/ML:** TensorFlow, PyTorch, OpenCV
-* **Databases:** MySQL, MongoDB
-* **Tools:** Git, Docker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,flask,fastapi,tensorflow,pytorch,opencv,mysql,mongodb,docker,git,linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,docker,mysql,mongodb,git,linux" />
+### Backend
+
+Python, Flask, Django, FastAPI, REST APIs
+
+### AI / Machine Learning
+
+TensorFlow, PyTorch, OpenCV
+
+### Databases
+
+MySQL, MongoDB
+
+### Tools
+
+Git, Docker, Linux
 
 ---
 
@@ -35,27 +39,55 @@ I build scalable backend systems, AI-powered applications, and practical Python 
 
 ---
 
+## Current Focus
+
+* Advanced AI and Computer Vision
+* MLOps and deployment workflows
+* Backend system design
+* AWS fundamentals
+
+---
+
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Nitin59295\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin59295\&show_icons=true\&theme=rose_pine\&count_private=true\&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin59295\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitin59295\&layout=compact\&theme=rose_pine\&langs_count=8)
 
 ---
 
 ## Contribution Streak
 
-![](https://streak-stats.demolab.com/?user=Nitin59295\&theme=tokyonight)
+![Contribution Streak](https://streak-stats.demolab.com/?user=Nitin59295\&theme=rose-pine)
 
 ---
 
-## GitHub Trophies
+## Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=Nitin59295\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitin59295\&theme=tokyo-night)
+
+---
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=Nitin59295\&label=Profile%20Views\&color=C2185B\&style=flat)
+
+---
+
+## Status
+
+![Python](https://img.shields.io/badge/Python-Developer-C2185B?style=for-the-badge)
+
+![Backend](https://img.shields.io/badge/Backend-Focused-AD1457?style=for-the-badge)
+
+![AI](https://img.shields.io/badge/AI-Learning-880E4F?style=for-the-badge)
 
 ---
 
 ## Contact
 
-* Email: [bhatianitin49@gmail.com](mailto:bhatianitin49@gmail.com)
-* GitHub: https://github.com/Nitin59295
+[![Email](https://img.shields.io/badge/Email-bhatianitin49@gmail.com-C2185B?style=for-the-badge\&logo=gmail)](mailto:bhatianitin49@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nitin59295-880E4F?style=for-the-badge\&logo=github)](https://github.com/Nitin59295)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Bhatia-AD1457?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nitin-bhatia1011/)
