@@ -12,6 +12,10 @@
 I build scalable backend systems, AI-powered applications, and practical Python solutions focused on real-world impact.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Builder;FastAPI+%7C+Flask+%7C+Django;Precision+over+noise" />
+</p>
+
 ---
 
 <h2 align="center">Tech Stack</h2>
