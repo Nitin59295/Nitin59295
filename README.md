@@ -1,11 +1,15 @@
 <img src="https://raw.githubusercontent.com/Nitin59295/Nitin59295/main/github-header-banner%20(3).png" width="100%" />
 
 
-# Hi, I'm Nitin Bhatia
+<h1 align="center">Hi, I'm Nitin Bhatia</h1>
 
-### Python Backend Developer | AI/ML Enthusiast | Computer Vision
+<h3 align="center">Python Backend Developer | Logic with intent</h3>
 
+<p align="center">
 I build scalable backend systems, AI-powered applications, and practical Python solutions focused on real-world impact.
+</p>
+
+
 
 ---
 
