@@ -1,145 +1,277 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nitin59295/Nitin59295/main/github-header-banner.png" width="100%" />
-</p>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=&fontSize=0" width="100%"/>
 
-<h1 align="center">Hi, I'm Nitin Bhatia</h1>
-<h3 align="center">Data Engineer | Building reliable pipelines from raw data to insight</h3>
+<!-- ═══════ HERO ═══════ -->
 
-<p align="center">
-I design and build ETL/ELT pipelines, backend systems, and data platforms focused on clean architecture and real-world reliability.
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=550&lines=Data+Engineer;ETL%2FELT+Pipeline+Builder;Python+%7C+SQL+%7C+PySpark+%7C+dbt;Precision+over+noise" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=true&width=400&height=45&lines=Nitin+Bhatia"/>
 
-<h2 align="center">Tech Stack</h2>
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,docker,git,linux,flask,fastapi,django" />
+Data Engineer — I design and build ETL/ELT pipelines,<br/>
+backend systems, and data platforms focused on<br/>
+clean architecture and real-world reliability.
 </p>
-
-### Data Engineering
-Python, SQL (PostgreSQL), PySpark, Apache Spark, Databricks, Apache Airflow, dbt, Pandas, NumPy
-
-### Backend Development
-Flask, FastAPI, Django REST Framework, REST APIs
-
-### Databases & Warehouses
-PostgreSQL, MySQL, SQLite, Snowflake *(learning)*, BigQuery *(learning)*, Amazon Redshift *(learning)*
-
-### Cloud & Platforms
-AWS (EC2 basics), Databricks Platform
-
-### Tools
-Git & GitHub, Docker, Postman, Linux/Bash, Jupyter Notebook
-
----
-
-<h2 align="center">Expertise</h2>
-
-* Data Engineering
-* Python Programming
-* SQL & Database Design
-* ETL Pipeline Development
-* Data Processing & Transformation
-* Data Cleaning & Validation
-* Backend Development
-* REST API Development
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-
----
-
-<h2 align="center">Projects</h2>
-
-* **BikeSalesETL** — Batch ETL pipeline built with PySpark and Databricks, writing transformed data to Parquet
-* **dbt-ecommerce-pipeline** — ELT pipeline ingesting data from the Fake Store API into PostgreSQL, with staging and marts layers built in dbt
-* **Expense Management System** — Expense tracking and reporting platform with analytics
-* **AI Chatbot** — Conversational assistant with persistent chat history
-
----
-
-<h2 align="center">Core Concepts I Know</h2>
-
-* ETL / ELT
-* Data Modeling (basic)
-* Window Functions
-* Joins, CTEs, Subqueries
-* Aggregations
-* OOP
-* Exception Handling
-* File Processing (CSV, JSON)
-* Version Control
-* Linux Shell Scripting
-
----
-
-<h2 align="center">Current Focus</h2>
-
-* Advanced data pipeline design (ETL/ELT at scale)
-* Data warehousing and modeling
-* Workflow orchestration (Airflow)
-* Cloud data platforms (AWS, Snowflake, BigQuery)
-
----
-
-<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin59295&show_icons=true&theme=rose_pine&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitin59295&layout=compact&theme=rose_pine&langs_count=8" height="170"/>
+<a href="mailto:bhatianitin49@gmail.com"><img src="https://img.shields.io/badge/Email-8B949E?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nitin-bhatia1011/"><img src="https://img.shields.io/badge/LinkedIn-8B949E?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Nitin59295"><img src="https://img.shields.io/badge/GitHub-8B949E?style=flat&logo=github&logoColor=white"/></a>
 </p>
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&duration=3500&pause=1200&color=58a6ff&center=true&vCenter=true&width=550&lines=Data+Engineer;ETL+%2F+ELT+Pipeline+Architect;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+dbt;Precision+over+noise"/>
+</p>
+
+<br/>
 
 ---
 
-<h2 align="center">Contribution Streak</h2>
+<br/>
+
+<!-- ═══════ ABOUT ═══════ -->
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
+<h3 align="center"><b>About</b></h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nitin59295&theme=rose-pine" />
+I care about data quality, well-tested code, and<br/>
+systems that run without surprises. Currently exploring<br/>
+advanced pipeline design, data warehousing, and<br/>
+cloud platforms at scale.
 </p>
+
+<p align="center">
+<code>ETL / ELT</code>&nbsp;&nbsp;<code>Data Modeling</code>&nbsp;&nbsp;<code>Pipeline Design</code><br/><br/>
+<code>Window Functions</code>&nbsp;&nbsp;<code>Joins & CTEs</code>&nbsp;&nbsp;<code>Data Quality</code><br/><br/>
+<code>OOP</code>&nbsp;&nbsp;<code>Version Control</code>&nbsp;&nbsp;<code>Shell Scripting</code>
+</p>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<h2 align="center">Contribution Graph</h2>
+<br/>
+
+<!-- ═══════ STACK ═══════ -->
+
+<h3 align="center"><b>Stack</b></h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin59295&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,docker,git,linux,flask,fastapi,django&theme=dark&perline=10"/>
 </p>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+<p align="center"><b>Data Engineering</b></p>
+<p align="center">
+<code>Python</code>&nbsp;&nbsp;<code>SQL</code>&nbsp;&nbsp;<code>PySpark</code><br/>
+<code>Spark</code>&nbsp;&nbsp;<code>Databricks</code>&nbsp;&nbsp;<code>Airflow</code><br/>
+<code>dbt</code>&nbsp;&nbsp;<code>Pandas</code>&nbsp;&nbsp;<code>NumPy</code>
+</p>
+
+<br/>
+
+<p align="center"><b>Databases & Warehouses</b></p>
+<p align="center">
+<code>PostgreSQL</code>&nbsp;&nbsp;<code>MySQL</code>&nbsp;&nbsp;<code>SQLite</code><br/>
+<code>Snowflake</code>&nbsp;&nbsp;<code>BigQuery</code>&nbsp;&nbsp;<code>Redshift</code>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+<code>Flask</code>&nbsp;&nbsp;<code>FastAPI</code><br/>
+<code>Django REST</code>&nbsp;&nbsp;<code>REST APIs</code>
+</p>
+
+<br/>
+
+<p align="center"><b>Cloud & Tools</b></p>
+<p align="center">
+<code>AWS</code>&nbsp;&nbsp;<code>Docker</code>&nbsp;&nbsp;<code>Git</code><br/>
+<code>Linux</code>&nbsp;&nbsp;<code>Postman</code>&nbsp;&nbsp;<code>Jupyter</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<h2 align="center">Profile Views</h2>
+<br/>
+
+<!-- ═══════ EXPERTISE ═══════ -->
+
+<h3 align="center"><b>Expertise</b></h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitin59295&label=Profile%20Views&color=C2185B&style=flat" />
+  <img src="https://img.shields.io/badge/Data_Engineering-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL_&_DB_Design-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ETL_Pipelines-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Cleaning-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Backend_Dev-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST_APIs-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OOP-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Processing-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DSA-58a6ff?style=flat-square&labelColor=161b22"/>
 </p>
+
+<br/>
 
 ---
 
-<h2 align="center">Status</h2>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-Engineer-C2185B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL%2FELT-Focused-AD1457?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PySpark%20%7C%20dbt-Learning-880E4F?style=for-the-badge" />
-</p>
+<!-- ═══════ PROJECTS ═══════ -->
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280"/>
+
+</td>
+<td width="60%" valign="top">
+
+<h3 align="center"><b>Projects</b></h3>
+
+<br/>
+
+▸ **BikeSalesETL** — [View Repo](https://github.com/Nitin59295/BikeSalesETL)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Batch ETL pipeline · PySpark · Databricks → Parquet
+
+<br/>
+
+▸ **dbt-ecommerce-pipeline** — [View Repo](https://github.com/Nitin59295/dbt-ecommerce-pipeline)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;ELT pipeline · Fake Store API → PostgreSQL → dbt marts
+
+<br/>
+
+▸ **Expense Management System**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Full-stack expense tracking & reporting with analytics
+
+<br/>
+
+▸ **AI Chatbot**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Conversational assistant with persistent chat history
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-<h2 align="center">Contact</h2>
+<br/>
+
+<!-- ═══════ CURRENT FOCUS ═══════ -->
+
+<h3 align="center"><b>Current Focus</b></h3>
+
+<br/>
 
 <p align="center">
-  <a href="mailto:bhatianitin49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhatianitin49@gmail.com-C2185B?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Nitin59295">
-    <img src="https://img.shields.io/badge/GitHub-Nitin59295-880E4F?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/nitin-bhatia1011/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Bhatia-AD1457?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://img.shields.io/badge/🔄_Advanced_ETL/ELT_at_Scale-161b22?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🏗️_Data_Warehousing_&_Modeling-161b22?style=for-the-badge"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌀_Airflow_Orchestration-161b22?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/☁️_AWS_·_Snowflake_·_BigQuery-161b22?style=for-the-badge"/>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════ GITHUB STATS ═══════ -->
+
+<h3 align="center"><b>GitHub</b></h3>
+
+<br/>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin59295&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=ffffff&text_color=8B949E&icon_color=58a6ff&count_private=true&include_all_commits=true&hide_title=true&ring_color=58a6ff"/>
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitin59295&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&title_color=ffffff&text_color=8B949E&langs_count=6"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="55%" src="https://streak-stats.demolab.com/?user=Nitin59295&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8B949E&currStreakNum=ffffff&sideNums=8B949E&dates=8B949E"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin59295&hide_border=true&bg_color=00000000&color=8B949E&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&radius=0"/>
+</p>
+
+<br/>
+
+<!-- ═══════ SNAKE ═══════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nitin59295&label=views&color=8B949E&style=flat"/>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
