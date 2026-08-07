@@ -1,91 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:0d1117&height=200&section=header&text=Nitin%20Bhatia&fontSize=50&fontColor=C9D1D9&fontAlignY=38&desc=Data%20Engineer&descSize=20&descColor=8B949E&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<!-- ═══════ HERO ═══════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=ETL+%2F+ELT+Pipeline+Architect;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+dbt;Building+systems+that+don't+break;Precision+over+noise"/>
+</p>
+
+<p align="center">
+  <a href="mailto:bhatianitin49@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=8B949E"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nitin-bhatia1011/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=8B949E"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/Nitin59295"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=8B949E"/></a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Nitin59295&label=views&color=8B949E&style=flat"/>
+</p>
+
+---
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" align="center" valign="top">
+<td width="58%" valign="top">
 
-<br/>
+### About
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=true&width=400&height=45&lines=Nitin+Bhatia"/>
-
-<br/>
-
-<p align="center">
-Data Engineer — I design and build ETL/ELT pipelines,<br/>
-backend systems, and data platforms focused on<br/>
-clean architecture and real-world reliability.
-</p>
-
-<p align="center">
-<a href="mailto:bhatianitin49@gmail.com"><img src="https://img.shields.io/badge/Email-8B949E?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nitin-bhatia1011/"><img src="https://img.shields.io/badge/LinkedIn-8B949E?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Nitin59295"><img src="https://img.shields.io/badge/GitHub-8B949E?style=flat&logo=github&logoColor=white"/></a>
-</p>
+```yaml
+name: Nitin Bhatia
+role: Data Engineer
+focus: ETL/ELT pipelines, backend systems, data platforms
+currently_learning:
+  - Snowflake
+  - BigQuery
+philosophy: "Clean architecture, real-world reliability"
+```
 
 </td>
-<td width="45%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&duration=3500&pause=1200&color=58a6ff&center=true&vCenter=true&width=550&lines=Data+Engineer;ETL+%2F+ELT+Pipeline+Architect;Python+%C2%B7+SQL+%C2%B7+PySpark+%C2%B7+dbt;Precision+over+noise"/>
-</p>
-
-<br/>
-
 ---
 
-<br/>
-
-<!-- ═══════ ABOUT ═══════ -->
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="top">
-
-<h3 align="center"><b>About</b></h3>
-
-<p align="center">
-I care about data quality, well-tested code, and<br/>
-systems that run without surprises. Currently exploring<br/>
-advanced pipeline design, data warehousing, and<br/>
-cloud platforms at scale.
-</p>
-
-<p align="center">
-<code>ETL / ELT</code>&nbsp;&nbsp;<code>Data Modeling</code>&nbsp;&nbsp;<code>Pipeline Design</code><br/><br/>
-<code>Window Functions</code>&nbsp;&nbsp;<code>Joins & CTEs</code>&nbsp;&nbsp;<code>Data Quality</code><br/><br/>
-<code>OOP</code>&nbsp;&nbsp;<code>Version Control</code>&nbsp;&nbsp;<code>Shell Scripting</code>
-</p>
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════ STACK ═══════ -->
-
-<h3 align="center"><b>Stack</b></h3>
-
-<br/>
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,docker,git,linux,flask,fastapi,django&theme=dark&perline=10"/>
@@ -93,185 +48,147 @@ cloud platforms at scale.
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-<p align="center"><b>Data Engineering</b></p>
-<p align="center">
-<code>Python</code>&nbsp;&nbsp;<code>SQL</code>&nbsp;&nbsp;<code>PySpark</code><br/>
-<code>Spark</code>&nbsp;&nbsp;<code>Databricks</code>&nbsp;&nbsp;<code>Airflow</code><br/>
-<code>dbt</code>&nbsp;&nbsp;<code>Pandas</code>&nbsp;&nbsp;<code>NumPy</code>
-</p>
-
-<br/>
-
-<p align="center"><b>Databases & Warehouses</b></p>
-<p align="center">
-<code>PostgreSQL</code>&nbsp;&nbsp;<code>MySQL</code>&nbsp;&nbsp;<code>SQLite</code><br/>
-<code>Snowflake</code>&nbsp;&nbsp;<code>BigQuery</code>&nbsp;&nbsp;<code>Redshift</code>
-</p>
-
+<td align="center" width="140"><b>Data<br/>Engineering</b></td>
+<td>
+  <code>Python</code>&nbsp;&nbsp;
+  <code>SQL</code>&nbsp;&nbsp;
+  <code>PySpark</code>&nbsp;&nbsp;
+  <code>Spark</code>&nbsp;&nbsp;
+  <code>Databricks</code>&nbsp;&nbsp;
+  <code>Airflow</code>&nbsp;&nbsp;
+  <code>dbt</code>&nbsp;&nbsp;
+  <code>Pandas</code>&nbsp;&nbsp;
+  <code>NumPy</code>
 </td>
-<td width="50%" valign="top">
-
-<p align="center"><b>Backend</b></p>
-<p align="center">
-<code>Flask</code>&nbsp;&nbsp;<code>FastAPI</code><br/>
-<code>Django REST</code>&nbsp;&nbsp;<code>REST APIs</code>
-</p>
-
-<br/>
-
-<p align="center"><b>Cloud & Tools</b></p>
-<p align="center">
-<code>AWS</code>&nbsp;&nbsp;<code>Docker</code>&nbsp;&nbsp;<code>Git</code><br/>
-<code>Linux</code>&nbsp;&nbsp;<code>Postman</code>&nbsp;&nbsp;<code>Jupyter</code>
-</p>
-
+</tr>
+<tr>
+<td align="center" width="140"><b>Backend</b></td>
+<td>
+  <code>Flask</code>&nbsp;&nbsp;
+  <code>FastAPI</code>&nbsp;&nbsp;
+  <code>Django REST</code>&nbsp;&nbsp;
+  <code>REST APIs</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Databases &<br/>Warehouses</b></td>
+<td>
+  <code>PostgreSQL</code>&nbsp;&nbsp;
+  <code>MySQL</code>&nbsp;&nbsp;
+  <code>SQLite</code>&nbsp;&nbsp;
+  <code>Snowflake</code>&nbsp;&nbsp;
+  <code>BigQuery</code>&nbsp;&nbsp;
+  <code>Redshift</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Cloud &<br/>Tools</b></td>
+<td>
+  <code>AWS</code>&nbsp;&nbsp;
+  <code>Docker</code>&nbsp;&nbsp;
+  <code>Git</code>&nbsp;&nbsp;
+  <code>Linux</code>&nbsp;&nbsp;
+  <code>Postman</code>&nbsp;&nbsp;
+  <code>Jupyter</code>
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+### Expertise
+
+<div align="center">
+
+| | Area | What I Do |
+|:---:|:---|:---|
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=apachespark&logoColor=8B949E" width="30"/> | **Data Engineering** | Design & build ETL/ELT pipelines, data transformation at scale |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=python&logoColor=8B949E" width="30"/> | **Python** | Core language for scripting, automation, and data processing |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=postgresql&logoColor=8B949E" width="30"/> | **SQL & DB Design** | Schema design, query optimization, stored procedures |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=flask&logoColor=8B949E" width="30"/> | **Backend Dev** | REST APIs with Flask, FastAPI, Django REST Framework |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=pandas&logoColor=8B949E" width="30"/> | **Data Processing** | Cleaning, validation, transformation with Pandas & PySpark |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=git&logoColor=8B949E" width="30"/> | **OOP & DSA** | Clean code patterns, data structures, algorithms |
+
+</div>
 
 ---
 
-<br/>
+### Projects
 
-<!-- ═══════ EXPERTISE ═══════ -->
+<div align="center">
 
-<h3 align="center"><b>Expertise</b></h3>
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[BikeSalesETL](https://github.com/Nitin59295/BikeSalesETL)** | Batch ETL pipeline → Parquet | `PySpark` `Databricks` |
+| **[dbt-ecommerce-pipeline](https://github.com/Nitin59295/dbt-ecommerce-pipeline)** | ELT · Fake Store API → PostgreSQL → dbt | `dbt` `PostgreSQL` |
+| **Expense Management System** | Expense tracking & reporting with analytics | `Python` `Flask` `SQL` |
+| **AI Chatbot** | Conversational assistant with persistent history | `Python` `NLP` `APIs` |
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Engineering-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL_&_DB_Design-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ETL_Pipelines-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Data_Cleaning-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Backend_Dev-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/OOP-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Data_Processing-58a6ff?style=flat-square&labelColor=161b22"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DSA-58a6ff?style=flat-square&labelColor=161b22"/>
-</p>
-
-<br/>
+</div>
 
 ---
 
-<br/>
+### Concepts
 
-<!-- ═══════ PROJECTS ═══════ -->
+<div align="center">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="40%" align="center" valign="middle">
+| SQL & Data | Programming | Engineering |
+|:---:|:---:|:---:|
+| ETL / ELT | OOP | Data Quality |
+| Data Modeling | Exception Handling | Version Control |
+| Window Functions | File I/O | Shell Scripting |
+| Joins & CTEs | DSA | Pipeline Design |
+| Aggregations | Clean Code | Data Validation |
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280"/>
-
-</td>
-<td width="60%" valign="top">
-
-<h3 align="center"><b>Projects</b></h3>
-
-<br/>
-
-▸ **BikeSalesETL** — [View Repo](https://github.com/Nitin59295/BikeSalesETL)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Batch ETL pipeline · PySpark · Databricks → Parquet
-
-<br/>
-
-▸ **dbt-ecommerce-pipeline** — [View Repo](https://github.com/Nitin59295/dbt-ecommerce-pipeline)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;ELT pipeline · Fake Store API → PostgreSQL → dbt marts
-
-<br/>
-
-▸ **Expense Management System**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Full-stack expense tracking & reporting with analytics
-
-<br/>
-
-▸ **AI Chatbot**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Conversational assistant with persistent chat history
-
-</td>
-</tr>
-</table>
-
-<br/>
+</div>
 
 ---
 
-<br/>
-
-<!-- ═══════ CURRENT FOCUS ═══════ -->
-
-<h3 align="center"><b>Current Focus</b></h3>
-
-<br/>
+### Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔄_Advanced_ETL/ELT_at_Scale-161b22?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🏗️_Data_Warehousing_&_Modeling-161b22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Advanced_ETL/ELT_at_Scale-0d1117?style=for-the-badge&logo=apachespark&logoColor=8B949E"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data_Warehousing-0d1117?style=for-the-badge&logo=snowflake&logoColor=8B949E"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🌀_Airflow_Orchestration-161b22?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/☁️_AWS_·_Snowflake_·_BigQuery-161b22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Airflow_Orchestration-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=8B949E"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Snowflake_·_BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=8B949E"/>
 </p>
-
-<br/>
 
 ---
 
-<br/>
-
-<!-- ═══════ GITHUB STATS ═══════ -->
-
-<h3 align="center"><b>GitHub</b></h3>
-
-<br/>
+### GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin59295&show_icons=true&hide_border=true&border_radius=0&bg_color=00000000&title_color=ffffff&text_color=8B949E&icon_color=58a6ff&count_private=true&include_all_commits=true&hide_title=true&ring_color=58a6ff"/>
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitin59295&layout=compact&hide_border=true&border_radius=0&bg_color=00000000&title_color=ffffff&text_color=8B949E&langs_count=6"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin59295&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&icon_color=8B949E&ring_color=C9D1D9"/>
+  &nbsp;
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitin59295&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img width="58%" src="https://streak-stats.demolab.com/?user=Nitin59295&theme=github-dark-blue&hide_border=true&border_radius=10&ring=C9D1D9&fire=C9D1D9&currStreakLabel=C9D1D9"/>
+</p>
+
+<p align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin59295&theme=github-compact&hide_border=true&radius=10&bg_color=0d1117&color=8B949E&line=C9D1D9&point=C9D1D9&area=true&area_color=C9D1D920"/>
 </p>
 
 <br/>
-
-<p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=Nitin59295&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8B949E&currStreakNum=ffffff&sideNums=8B949E&dates=8B949E"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin59295&hide_border=true&bg_color=00000000&color=8B949E&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&radius=0"/>
-</p>
-
-<br/>
-
-<!-- ═══════ SNAKE ═══════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-<br/>
-<br/>
 
 ---
 
-<br/>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitin59295&label=views&color=8B949E&style=flat"/>
+  <a href="mailto:bhatianitin49@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8B949E"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nitin-bhatia1011/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8B949E"/></a>&nbsp;
+  <a href="https://github.com/Nitin59295"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=8B949E"/></a>
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1e2e,100:0d1117&height=120&section=footer" width="100%"/>
