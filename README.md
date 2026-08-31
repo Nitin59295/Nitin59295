@@ -162,9 +162,9 @@ philosophy: "Clean architecture, real-world reliability"
 ### GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin59295&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&icon_color=8B949E&ring_color=C9D1D9"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Nitin59295&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true"/>
   &nbsp;
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitin59295&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8"/>
+  <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nitin59295&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -172,15 +172,25 @@ philosophy: "Clean architecture, real-world reliability"
 </p>
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin59295&theme=github-compact&hide_border=true&radius=10&bg_color=0d1117&color=8B949E&line=C9D1D9&point=C9D1D9&area=true&area_color=C9D1D920"/>
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitin59295&theme=github_dark"/>
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="snake"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
 </picture>
 
 ---
